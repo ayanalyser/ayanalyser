@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Ayan.
-- 🧑‍💻 I’m a Data Analyst.
-- 🌱 You're most welcome to my Github profile.
-- 💞️ Wish you have a great day ahead.
-
-# 👋 Hi, I'm Ayan Alser  
-### 🚀 Full-Stack Developer | 💻 Open Source Enthusiast | 🧠 AI Explorer
+# 👋 Hi, I'm Ayan  
+### 🚀 Data Analyst | 💻 ML Enthusiast | 🧠 Full-stack Developer
 
 <p align="center">
   <a href="https://github.com/ayanalyser?tab=repositories">
@@ -54,25 +49,16 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayanduttaa/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ayanlyser.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/ayanduttaa?mx=2">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 💡 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Node.js](https://yourblog.com/post1)
-- [The Future of AI in Web Development](https://yourblog.com/post2)
-- [Optimizing React Performance: Best Practices](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
