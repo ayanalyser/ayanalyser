@@ -1,8 +1,8 @@
 # 👋 Welcome to my GitHub Profile
 
 <h2>Hey, I'm Ayan</h2>
-**Data Alchemist | Machine Learning Enthusiast | Full-Stack Analyst**  
-*Transforming raw data into actionable insights and intelligent solutions*
+<b>Data Alchemist | Machine Learning Enthusiast</b><br>
+<i>Transforming raw data into actionable insights and intelligent solutions</i>
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?logo=postgresql)](https://en.wikipedia.org/wiki/SQL)
