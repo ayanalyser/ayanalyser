@@ -17,22 +17,6 @@
 📜 **Bachelor of Technology in Information Technology**  
 ⏳ *Batch 2019-23*  
 
-## 💼 Professional Experience
-
-### **Chandrani Food Processing Private Limited** | *Kolkata, West Bengal*  
-**Data Analyst** | *October 2024 - Present*  
-![Python](https://img.shields.io/badge/-Machine_Learning-3776AB?logo=python) ![AWS](https://img.shields.io/badge/-AWS_RDS-232F3E?logo=amazonaws) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau)
-- **Purchase Price Suggestion Model**: Developed a Random Forest Regression model for seed procurement (50k+ records) achieving **92.5% accuracy** with **₹97/ton MAE**, reducing overpayment by **15%** and saving **20 hours/week**.
-- **Data Pipeline Automation**: Built React-based agent-driven entry systems (100+ daily transactions) with AWS RDS and Apache Airflow ETL workflows.
-- **Stakeholder Dashboards**: Executed **5+ Tableau dashboards** used by 50+ stakeholders for real-time decision-making.
-
-### **Evalueserve** | *Gurugram, Haryana*  
-**Junior Analyst** | *September 2023 - September 2024*  
-![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E) ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811) ![XGBoost](https://img.shields.io/badge/-XGBoost-3776AB)
-- **Predictive Modeling**: Boosted qualified leads by **19%** using Scikit-learn/XGBoost for client segmentation in marketing campaigns.
-- **Data Automation**: Reduced processing time by **30%** via Python/SQL optimization (1M+ record datasets).
-- **Real-Time Reporting**: Designed Power BI/Excel dashboards improving reporting efficiency by **25%**.
-
 
 ## 🔧 Technical Skills
 
