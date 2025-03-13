@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub Profile
 
 <h2>Hey, I'm Ayan</h2>
-*Data Analyst | Machine Learning Enthusiast *
+**Data Alchemist | Machine Learning Enthusiast | Full-Stack Analyst**  
 *Transforming raw data into actionable insights and intelligent solutions*
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)](https://python.org)
