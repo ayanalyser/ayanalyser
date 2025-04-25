@@ -45,6 +45,6 @@
 
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayanduttaa/))
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:ayanalyser@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)]((https://www.linkedin.com/in/ayanduttaa/))
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:ayanalyser@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)]([https://kaggle.com/yourprofile](https://www.kaggle.com/ayanalyser))
