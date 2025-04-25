@@ -43,17 +43,6 @@
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?logo=xgboost)
 
-## 🌟 Featured Projects
-
-### 1. House Sale Price Prediction - Spark Machine Learning
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark)](https://spark.apache.org)
-[![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?logo=amazonaws)](https://aws.amazon.com/glue/)
-*Built a machine learning pipeline using Apache Spark MLlib and AWS Glue to predict house sale prices. Leveraged feature engineering and regression models, achieving **92% accuracy**. Operationalized the model on Databricks and integrated results into dashboards for real estate analytics, demonstrating scalable cloud-based ML solutions.*
-
-### 2. Sentiment Analysis Web Application with NLP
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)](https://flask.palletsprojects.com)
-[![NLTK](https://img.shields.io/badge/NLTK-Expert-3776AB?logo=python)](https://www.nltk.org)
-*Developed a sentiment analysis web application using Python, Flask, and NLP techniques (NLTK, TextBlob) to classify user reviews into positive, negative, or neutral sentiments, achieving **85% accuracy**. Deployed the model on a Flask-based backend with an interactive frontend, enabling real-time sentiment prediction for **500+ user inputs**.*
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayanduttaa/))
